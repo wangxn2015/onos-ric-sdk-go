@@ -404,9 +404,6 @@ github.com/subosito/gotenv v1.2.0/go.mod h1:N0PQaV/YGNqwC0u51sEeR/aUtSLEXKX9iv69
 github.com/urfave/cli/v2 v2.3.0/go.mod h1:LJmUH05zAU44vOAcrfzZQKsZbVcdbOG8rtL3/XcUArI=
 github.com/wangxn2015/onos-lib-go v0.8.16-0.20221211095953-88ba820eb386 h1:gtJF+gvELLnuSAKC/Dy2Su0/xuUApJafffn/KL9z/bY=
 github.com/wangxn2015/onos-lib-go v0.8.16-0.20221211095953-88ba820eb386/go.mod h1:te/HouPqR1JxHnNTIPcKMw/rvITMirXwRhYxSR4iu94=
-github.com/wangxn2015/onos-lib-go v1.8.15/go.mod h1:te/HouPqR1JxHnNTIPcKMw/rvITMirXwRhYxSR4iu94=
-github.com/wangxn2015/onos-proxy v1.1.0 h1:ju7GS/riBPpQIzEm6s3e+T6Z3eBRdEIDT9oBtG8mniQ=
-github.com/wangxn2015/onos-proxy v1.1.0/go.mod h1:rqRHZuwutRmDkarpV89EhRRPaB7jhcnOEgSqS5B4FMo=
 github.com/wangxn2015/onos-proxy v1.1.1-0.20221211102503-7b1c8fbd00a5 h1:+cTxYSp0VA45PFwGuDNjUKk2ukmYuq7zCE46OgTXWhk=
 github.com/wangxn2015/onos-proxy v1.1.1-0.20221211102503-7b1c8fbd00a5/go.mod h1:GgJPSqiSeR8DmFyXGDk/Ssy68zO0zUy6gXzpyxcP8fM=
 github.com/xdg-go/pbkdf2 v1.0.0/go.mod h1:jrpuAogTd400dnrH08LKmI/xc1MbPOebTwRqcT5RDeI=
