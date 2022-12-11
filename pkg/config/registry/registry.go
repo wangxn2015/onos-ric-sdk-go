@@ -7,17 +7,17 @@ package registry
 import (
 	"encoding/json"
 
-	_default "github.com/onosproject/onos-ric-sdk-go/pkg/config/app/default"
+	_default "github.com/wangxn2015/onos-ric-sdk-go/pkg/config/app/default"
 
-	"github.com/onosproject/onos-ric-sdk-go/pkg/config/callback"
-	"github.com/onosproject/onos-ric-sdk-go/pkg/config/configurable"
+	"github.com/wangxn2015/onos-ric-sdk-go/pkg/config/callback"
+	"github.com/wangxn2015/onos-ric-sdk-go/pkg/config/configurable"
 
-	"github.com/onosproject/onos-ric-sdk-go/pkg/config/store"
+	"github.com/wangxn2015/onos-ric-sdk-go/pkg/config/store"
 
-	"github.com/onosproject/onos-lib-go/pkg/northbound"
+	"github.com/wangxn2015/onos-lib-go/pkg/northbound"
 
-	"github.com/onosproject/onos-lib-go/pkg/logging"
-	"github.com/onosproject/onos-ric-sdk-go/pkg/config/agent"
+	"github.com/wangxn2015/onos-lib-go/pkg/logging"
+	"github.com/wangxn2015/onos-ric-sdk-go/pkg/config/agent"
 )
 
 var log = logging.GetLogger("registry")

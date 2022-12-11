@@ -8,7 +8,7 @@ import (
 	"sync"
 
 	"github.com/google/uuid"
-	"github.com/onosproject/onos-ric-sdk-go/pkg/config/event"
+	"github.com/wangxn2015/onos-ric-sdk-go/pkg/config/event"
 )
 
 // EventChannel is a channel which can accept an Event

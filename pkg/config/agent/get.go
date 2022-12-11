@@ -6,8 +6,8 @@
 package agent
 
 import (
-	"github.com/onosproject/onos-ric-sdk-go/pkg/config/configurable"
 	pb "github.com/openconfig/gnmi/proto/gnmi"
+	"github.com/wangxn2015/onos-ric-sdk-go/pkg/config/configurable"
 	"golang.org/x/net/context"
 )
 

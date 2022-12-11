@@ -6,20 +6,20 @@ package topo
 
 import (
 	"context"
-	"github.com/onosproject/onos-lib-go/pkg/grpc/retry"
+	"github.com/wangxn2015/onos-lib-go/pkg/grpc/retry"
 	"io"
 
-	"github.com/onosproject/onos-lib-go/pkg/errors"
+	"github.com/wangxn2015/onos-lib-go/pkg/errors"
 	"google.golang.org/grpc/status"
 
-	"github.com/onosproject/onos-ric-sdk-go/pkg/utils/creds"
+	"github.com/wangxn2015/onos-ric-sdk-go/pkg/utils/creds"
 	"google.golang.org/grpc/credentials"
 
 	topoapi "github.com/onosproject/onos-api/go/onos/topo"
 
-	"github.com/onosproject/onos-lib-go/pkg/logging"
+	"github.com/wangxn2015/onos-lib-go/pkg/logging"
 
-	"github.com/onosproject/onos-ric-sdk-go/pkg/topo/connection"
+	"github.com/wangxn2015/onos-ric-sdk-go/pkg/topo/connection"
 
 	"google.golang.org/grpc"
 )

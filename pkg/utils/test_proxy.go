@@ -6,8 +6,8 @@ package utils
 
 import (
 	"fmt"
-	"github.com/onosproject/onos-lib-go/pkg/certs"
-	"github.com/onosproject/onos-proxy/pkg/manager"
+	"github.com/wangxn2015/onos-lib-go/pkg/certs"
+	"github.com/wangxn2015/onos-proxy/pkg/manager"
 	"io/ioutil"
 	"os"
 )

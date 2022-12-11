@@ -8,7 +8,7 @@ package agent
 import (
 	"sync"
 
-	"github.com/onosproject/onos-ric-sdk-go/pkg/config/configurable"
+	"github.com/wangxn2015/onos-ric-sdk-go/pkg/config/configurable"
 )
 
 // Server implements the interface of gnmi server. It supports Capabilities, Get, and Set APIs.

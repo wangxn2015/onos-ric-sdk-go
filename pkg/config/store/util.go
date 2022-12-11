@@ -7,9 +7,9 @@ package store
 import (
 	"strconv"
 
-	"github.com/onosproject/onos-ric-sdk-go/pkg/config/utils"
+	"github.com/wangxn2015/onos-ric-sdk-go/pkg/config/utils"
 
-	"github.com/onosproject/onos-lib-go/pkg/errors"
+	"github.com/wangxn2015/onos-lib-go/pkg/errors"
 )
 
 func put(node interface{}, path interface{}, entry Entry) error {

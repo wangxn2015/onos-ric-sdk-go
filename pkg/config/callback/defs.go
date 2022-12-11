@@ -5,9 +5,9 @@
 package callback
 
 import (
-	"github.com/onosproject/onos-lib-go/pkg/logging"
-	"github.com/onosproject/onos-ric-sdk-go/pkg/config/configurable"
-	"github.com/onosproject/onos-ric-sdk-go/pkg/config/store"
+	"github.com/wangxn2015/onos-lib-go/pkg/logging"
+	"github.com/wangxn2015/onos-ric-sdk-go/pkg/config/configurable"
+	"github.com/wangxn2015/onos-ric-sdk-go/pkg/config/store"
 )
 
 var log = logging.GetLogger("config", "callback")

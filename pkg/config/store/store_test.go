@@ -9,7 +9,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/onosproject/onos-ric-sdk-go/pkg/config/event"
+	"github.com/wangxn2015/onos-ric-sdk-go/pkg/config/event"
 
 	"github.com/stretchr/testify/assert"
 )

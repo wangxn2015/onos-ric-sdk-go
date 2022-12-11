@@ -8,12 +8,12 @@ import (
 	"context"
 	gogotypes "github.com/gogo/protobuf/types"
 	topoapi "github.com/onosproject/onos-api/go/onos/topo"
-	"github.com/onosproject/onos-lib-go/pkg/env"
-	"github.com/onosproject/onos-lib-go/pkg/errors"
-	"github.com/onosproject/onos-lib-go/pkg/logging"
-	a1endpoint "github.com/onosproject/onos-ric-sdk-go/pkg/a1/endpoint"
-	"github.com/onosproject/onos-ric-sdk-go/pkg/topo"
-	"github.com/onosproject/onos-ric-sdk-go/pkg/utils"
+	"github.com/wangxn2015/onos-lib-go/pkg/env"
+	"github.com/wangxn2015/onos-lib-go/pkg/errors"
+	"github.com/wangxn2015/onos-lib-go/pkg/logging"
+	a1endpoint "github.com/wangxn2015/onos-ric-sdk-go/pkg/a1/endpoint"
+	"github.com/wangxn2015/onos-ric-sdk-go/pkg/topo"
+	"github.com/wangxn2015/onos-ric-sdk-go/pkg/utils"
 )
 
 var log = logging.GetLogger("a1", "manager")

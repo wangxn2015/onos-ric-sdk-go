@@ -5,10 +5,10 @@
 package callback
 
 import (
-	"github.com/onosproject/onos-ric-sdk-go/pkg/config/configurable"
-	"github.com/onosproject/onos-ric-sdk-go/pkg/config/store"
-	"github.com/onosproject/onos-ric-sdk-go/pkg/config/utils"
 	pb "github.com/openconfig/gnmi/proto/gnmi"
+	"github.com/wangxn2015/onos-ric-sdk-go/pkg/config/configurable"
+	"github.com/wangxn2015/onos-ric-sdk-go/pkg/config/store"
+	"github.com/wangxn2015/onos-ric-sdk-go/pkg/config/utils"
 )
 
 // Set :

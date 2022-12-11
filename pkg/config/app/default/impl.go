@@ -7,10 +7,10 @@ package _default
 import (
 	"context"
 
-	"github.com/onosproject/onos-ric-sdk-go/pkg/config/app"
+	"github.com/wangxn2015/onos-ric-sdk-go/pkg/config/app"
 
-	"github.com/onosproject/onos-ric-sdk-go/pkg/config/event"
-	"github.com/onosproject/onos-ric-sdk-go/pkg/config/store"
+	"github.com/wangxn2015/onos-ric-sdk-go/pkg/config/event"
+	"github.com/wangxn2015/onos-ric-sdk-go/pkg/config/store"
 )
 
 // Config config data structure

@@ -6,10 +6,10 @@
 package agent
 
 import (
-	"github.com/onosproject/onos-lib-go/pkg/logging"
-	"github.com/onosproject/onos-lib-go/pkg/northbound"
-	"github.com/onosproject/onos-ric-sdk-go/pkg/config/configurable"
 	api "github.com/openconfig/gnmi/proto/gnmi"
+	"github.com/wangxn2015/onos-lib-go/pkg/logging"
+	"github.com/wangxn2015/onos-lib-go/pkg/northbound"
+	"github.com/wangxn2015/onos-ric-sdk-go/pkg/config/configurable"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 )
